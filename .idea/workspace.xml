@@ -32,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2J8hQ50gCtTIDSrvtLYPDV1bRCP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -143,7 +144,7 @@
       <updated>1671465598032</updated>
       <workItem from="1671465599543" duration="4284000" />
       <workItem from="1671482490518" duration="26000" />
-      <workItem from="1671482548636" duration="820000" />
+      <workItem from="1671482548636" duration="1251000" />
     </task>
     <task id="LOCAL-00001" summary="target service impl test">
       <created>1671481924512</created>
